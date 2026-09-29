@@ -1,0 +1,3 @@
+# Generated SQLite databases — rebuild via schema.sql + seed_data.sql
+*.db
+__pycache__/
